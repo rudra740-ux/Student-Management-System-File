@@ -35,6 +35,6 @@ The data remains available even after restarting the program.
 
 Run the `Main.java` file.
 
-## Author
+## Developed By
 
 Rudra Pratap Singh
